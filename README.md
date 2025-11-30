@@ -2,7 +2,7 @@
 
 这是一个基于 Python 的自动化脚本，专门用于递归爬取并下载基于 [AList](https://alist.nn.ci/) (V3 API) 搭建的文件列表站点中的所有内容。
 
-用于下载https://share.feixu.site内的课程资料
+用于下载https://share.feixu.site 内的课程资料
 
 脚本会自动遍历目标网站的目录结构，模拟浏览器请求，支持断点续传，适合用于备份资料或批量下载课程资源。
 
